@@ -47,7 +47,7 @@ The following sections describe the tables that make up the Sakila sample databa
 -	Check stored procedure deleting data from proper tables. 
 -	Check calling stored procedure from another stored procedure.
 
-# ** Triggers Testing**
+# **Triggers Testing**
 Types of triggers
 There are Six types of actions or events in the form of triggers: 
 -	Before Insert: It is activated before the insertion of data into the table. 
